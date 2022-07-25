@@ -16,3 +16,13 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+.slide {
+    background: #fceae8 !important;
+}
+
+.buy-now {
+    background: #ff2f81 !important;
+    color: #fff !important;
+
+}
